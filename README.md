@@ -6,7 +6,7 @@
 
 ## General info
 
-My first work where i combined the API and DOM together in the future I add mySQL or NoSQL also there is where i create better with new knowledge
+My first work where i combined the API and DOM together in the future I add mySQL or NoSQL also there is where I create better with new knowledge
 
 ## Images
 
