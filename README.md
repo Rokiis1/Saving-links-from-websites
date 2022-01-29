@@ -3,7 +3,6 @@
 - [General info](#general-info)
 - [Image from extension](#images)
 - [Technologies](#technologies)
-- [Link](#link)
 
 ## General info
 
@@ -12,11 +11,11 @@ My first work where i combined the API and DOM together in the future I add mySQ
 ## Images
 
 How look in extension:
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Rokiis1/Chrome-extension-img/blob/main/Google%20extension%20when%20open.png?raw=true)
+![alt text](https://github.com/Rokiis1/Chrome-extension-img/blob/main/Google%20extension%20when%20you%20save%20links.png?raw=true)
 
 How looks in the dekstop:
-![alt text]()
+![alt text](https://github.com/Rokiis1/Chrome-extension-img/blob/main/Google%20extension%20when%20you%20in%20dekstop.png?raw=true)
 
 ## Technologies
 
