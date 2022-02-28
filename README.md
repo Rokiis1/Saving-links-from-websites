@@ -6,7 +6,7 @@
 
 ## General info
 
-My first work where i combined the API and DOM together in the future I add mySQL or NoSQL. Also there is where I create better with new knowledge
+I created google extension using javascript basics.
 
 ## Images
 
@@ -24,4 +24,3 @@ Project is created with:
 - JavaScript ES5
 - CSS
 - HTML
-- API minimum
